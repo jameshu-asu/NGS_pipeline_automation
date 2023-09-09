@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">NGS Pipeline Development</h3>
+  <h3 align="center">NGS Pipeline Orchestration</h3>
   <p align="center">
 </div>
 
