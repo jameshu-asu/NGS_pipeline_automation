@@ -1,0 +1,119 @@
+Accession	Virus
+MN908947.3	SARS-CoV-2
+NC_002645.1	Human coronavirus 229E
+NC_003266.2	Human adenovirus E
+KJ942616.1	Influenza A
+KJ942617.1	Influenza A
+KJ942618.1	Influenza A
+KJ942619.1	Influenza A
+KJ942620.1	Influenza A
+KJ942621.1	Influenza A
+KJ942622.1	Influenza A
+KJ942623.1 	Influenza A
+NC_005831.2	Human Coronavirus NL63
+NC_012564.1	Human bocavirus 3
+AY391777.1	Human coronavirus OC43
+NC_007366.1	Influenza A
+NC_007367.1	Influenza A
+NC_007368.1	Influenza A
+NC_007369.1	Influenza A
+NC_007370.1	Influenza A
+NC_007371.1	Influenza A
+NC_007372.1	Influenza A
+NC_007373.1	Influenza A
+NC_001796.2	Human parainfluenza virus 3
+NC_012042.1	Human bocavirus 2c PK isolate PK-5510
+NC_001405.1	Human adenovirus C
+AY353550.1	Human Respiratory syncytial virus 9320
+NC_006577.2	Human coronavirus HKU1
+NC_001490.1	Rhinovirus B14
+KU509700.1	Influenza A
+KU509701.1	Influenza A
+KU509702.1	Influenza A
+KU509703.1	Influenza A
+KU509704.1	Influenza A
+KU509705.1	Influenza A
+KU509706.1	Influenza A
+KU509707.1	Influenza A
+NC_012729.2	Human bocavirus 4 NI strain HBoV4-NI-385
+NC_009238.1	KI polyomavirus Stockholm 60
+NC_011203.1	Human adenovirus B1
+NC_007374.1	Influenza A
+NC_007375.1	Influenza A
+NC_007376.1	Influenza A
+NC_007377.1	Influenza A
+NC_007378.1	Influenza A
+NC_007380.1	Influenza A
+NC_007381.1	Influenza A
+NC_007382.1	Influenza A
+FJ766839.1	Influenza B
+KC866603.1	Influenza B
+KC866604.1	Influenza B
+KC866605.1	Influenza B
+KC866606.1	Influenza B
+KC866607.1	Influenza B
+KX058884.1	Influenza B
+CY115156.1	Influenza B
+MN325123.1	Influenza B
+NC_001617.1	Human rhinovirus 89
+NC_004905.2	Influenza A
+NC_004906.1	Influenza A
+NC_004907.1	Influenza A
+NC_004908.1	Influenza A
+NC_004909.1	Influenza A
+NC_004910.1	Influenza A
+NC_004911.1	Influenza A
+NC_004912.1	Influenza A
+CY236610.1	Influenza B
+NC_002016.1	Influenza A
+NC_002017.1	Influenza A
+NC_002018.1	Influenza A
+NC_002019.1	Influenza A
+NC_002020.1	Influenza A
+NC_002021.1	Influenza A
+NC_002022.1	Influenza A
+NC_002023.1	Influenza A
+NC_007455.1	Primate bocaparvovirus 1 isolate st2
+NC_004148.2	Human metapneumovirus
+AB686524.1	Enterovirus C104
+NC_007357.1	Influenza A
+NC_007358.1	Influenza A
+NC_007359.1	Influenza A
+NC_007360.1	Influenza A
+NC_007361.1	Influenza A
+NC_007362.1	Influenza A
+NC_007363.1	Influenza A
+NC_007364.1	Influenza A
+NC_002204.1	Influenza B
+NC_002205.1	Influenza B
+NC_002206.1	Influenza B
+NC_002207.1	Influenza B
+NC_002208.1	Influenza B
+NC_002209.1	Influenza B
+NC_002210.1	Influenza B
+NC_002211.1	Influenza B
+NC_021928.1	Human parainfluenza virus 4a
+KC885955.1	Influenza A
+KC885956.1	Influenza A
+KC885957.1	Influenza A
+KC885958.1	Influenza A
+KC885959.1	Influenza A
+KC885960.1	Influenza A
+KC885961.1	Influenza A
+KC885962.1	Influenza A
+NC_009996.1	Human rhinovirus C
+CY115183.1	Influenza B
+CY115184.1	Influenza B
+CY115185.1	Influenza B
+CY115186.1	Influenza B
+CY115187.1	Influenza B
+CY115188.1	Influenza B
+CY115189.1	Influenza B
+CY115190.1	Influenza B
+NC_003461.1	Human parainfluenza virus 1
+NC_003443.1	Human rubulavirus 2
+NC_001803.1	Respiratory syncytial virus
+NC_009539.1	WU Polyomavirus
+FM242866.1	Human parechovirus type 1 PicoBank/HPeV1/a
+AB252582.1	Human parechovirus 6
+GQ865517.1	Human enterovirus 109
