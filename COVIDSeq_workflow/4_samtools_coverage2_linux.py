@@ -5,7 +5,7 @@ import pandas as pd
 import os
 import fnmatch
 
-'''By James C. Hu
+'''
 This script will:
 1) Generate coverage outputs for all bam files within a directory.
 2) Compile coverage data into a single output.
